@@ -1,6 +1,6 @@
 package org.springframework.security.kt.docs.features.authentication.authenticationpasswordstorageargon2
 
-import org.junit.Assert.assertTrue
+import org.junit.jupiter.api.Assertions.assertTrue
 import org.springframework.security.crypto.argon2.Argon2PasswordEncoder
 
 class Argon2PasswordEncoderUsage {

@@ -1,6 +1,6 @@
 package org.springframework.security.kt.docs.features.authentication.authenticationpasswordstoragepbkdf2
 
-import org.junit.Assert.assertTrue
+import org.junit.jupiter.api.Assertions.assertTrue
 import org.springframework.security.crypto.password.Pbkdf2PasswordEncoder
 
 class Pbkdf2PasswordEncoderUsage {
