@@ -1,6 +1,6 @@
 package org.springframework.security.kt.docs.features.authentication.authenticationpasswordstoragescrypt
 
-import org.junit.Assert.assertTrue
+import org.junit.jupiter.api.Assertions.assertTrue
 import org.springframework.security.crypto.scrypt.SCryptPasswordEncoder
 
 class SCryptPasswordEncoderUsage {
